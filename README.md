@@ -56,7 +56,7 @@ Current buffer: "Hello, Rust!"
 ```
 
 ## Tech Dive
-**Language**: `Rust`
-**Learnings**: Concept of `Stack` and (kind of) implementing it (although it's basically just a wrapper over `Vec<>`)
-**Extra**: Created a TextBuf buffer struct which stores text buffer and handles undo/redo operations on text, and used some basic programming and `io` inputs to build a CLI.
+- **Language**: `Rust`
+- **Learnings**: Concept of `Stack` and (kind of) implementing it (although it's basically just a wrapper over `Vec<>`)
+- **Extra**: Created a TextBuf buffer struct which stores text buffer and handles undo/redo operations on text, and used some basic programming and `io` inputs to build a CLI.
 
